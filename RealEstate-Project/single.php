@@ -1,5 +1,6 @@
 <?php include 'header.php'; ?>
 
+
 <?php
 
 $mysqli=new mysqli('localhost','root','','property');
